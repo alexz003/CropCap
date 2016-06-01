@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\bin\Debug\Screenr.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\bin\Debug\Screenr.exe
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\bin\Debug\Screenr.pdb
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.exe
+c:\users\alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.csprojResolveAssemblyReference.cache

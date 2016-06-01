@@ -1,0 +1,14 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\bin\Debug\Screenr.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\bin\Debug\Screenr.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\bin\Debug\Screenr.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\CropCap.Form1.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\CropCap.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\Screenr\Screenr\obj\Debug\Screenr.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\CropCap\Screenr\bin\Debug\Screenr.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\CropCap\Screenr\obj\Debug\Screenr.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\CropCap\Screenr\obj\Debug\Screenr.pdb
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\CropCap\CropCap\bin\Debug\Screenr.exe.config
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\CropCap\CropCap\obj\Debug\Screenr.exe
+C:\Users\Alex\Documents\Visual Studio 2013\Projects\CropCap\CropCap\obj\Debug\Screenr.pdb
